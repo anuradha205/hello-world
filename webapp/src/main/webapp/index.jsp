@@ -1,4 +1,18 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here </h2>
-<h2> iam anuradha kakarla </h2>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-image: url('img_girl.jpg');
+}
+</style>
+</head>
+<body>
+
+<h2>Background Image</h2>
+
+<p>By default, the background image will repeat itself if it is smaller than the element where it is specified, in this case the body element.</p>
+
+</body>
+</html>
+
